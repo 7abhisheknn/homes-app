@@ -3,6 +3,10 @@
 
   `npm install -g @angular/cli`
 
+  `npm uninstall @angular/cli`
+
+  `npm i @angular/cli@15.0.4`
+
 - Clone this branch to your local machine
 
   `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
